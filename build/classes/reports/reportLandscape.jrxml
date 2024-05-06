@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="reportLandscape" language="groovy" pageWidth="595" pageHeight="421" orientation="Landscape" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="63de59ab-1fa1-4e5b-85c9-28906ab7c0a7">
+	<property name="ireport.zoom" value="2.8531167061100047"/>
+	<property name="ireport.x" value="624"/>
+	<property name="ireport.y" value="30"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="80" splitType="Stretch">
+			<rectangle>
+				<reportElement x="0" y="0" width="555" height="80" uuid="0c64caad-dd72-470e-bf2f-8509edeca682"/>
+				<graphicElement>
+					<pen lineWidth="0.5"/>
+				</graphicElement>
+			</rectangle>
+			<image>
+				<reportElement x="0" y="0" width="300" height="80" uuid="4e0e059a-f522-4b09-812d-1fd23ecc7bf4"/>
+				<imageExpression><![CDATA["F:\\Systems\\Hushan\\Logo\\title.png"]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement mode="Opaque" x="323" y="11" width="66" height="9" backcolor="#F2F2F2" uuid="cb6cc706-e3b4-4891-af83-12ed80178f2b"/>
+				<box topPadding="0" leftPadding="0" bottomPadding="0" rightPadding="0">
+					<pen lineWidth="0.1"/>
+					<topPen lineWidth="0.1"/>
+					<leftPen lineWidth="0.1"/>
+					<bottomPen lineWidth="0.1"/>
+					<rightPen lineWidth="0.1"/>
+				</box>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="FMRashmee" size="7" isPdfEmbedded="false"/>
+					<paragraph lineSpacing="Single" leftIndent="3"/>
+				</textElement>
+				<text><![CDATA[iemhqïlref.a wxlh(]]></text>
+			</staticText>
+			<staticText>
+				<reportElement mode="Opaque" x="323" y="47" width="66" height="9" backcolor="#F2F2F2" uuid="994b2ef9-cb23-464d-b028-887ae49caff5"/>
+				<box topPadding="0" leftPadding="0" bottomPadding="0" rightPadding="0">
+					<pen lineWidth="0.1"/>
+					<topPen lineWidth="0.1"/>
+					<leftPen lineWidth="0.1"/>
+					<bottomPen lineWidth="0.1"/>
+					<rightPen lineWidth="0.1"/>
+				</box>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="FMRashmee" size="7" isPdfEmbedded="false"/>
+					<paragraph lineSpacing="Single" leftIndent="3"/>
+				</textElement>
+				<text><![CDATA[ßisÜm;a wxlh(]]></text>
+			</staticText>
+			<staticText>
+				<reportElement mode="Opaque" x="323" y="35" width="66" height="9" backcolor="#F2F2F2" uuid="65cf04fc-168e-4421-95b9-4b6514077290"/>
+				<box topPadding="0" leftPadding="0" bottomPadding="0" rightPadding="0">
+					<pen lineWidth="0.1"/>
+					<topPen lineWidth="0.1"/>
+					<leftPen lineWidth="0.1"/>
+					<bottomPen lineWidth="0.1"/>
+					<rightPen lineWidth="0.1"/>
+				</box>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="FMRashmee" size="7" isPdfEmbedded="false"/>
+					<paragraph lineSpacing="Single" leftIndent="3"/>
+				</textElement>
+				<text><![CDATA[udih(]]></text>
+			</staticText>
+			<staticText>
+				<reportElement mode="Opaque" x="323" y="23" width="66" height="9" backcolor="#F2F2F2" uuid="8ce549cf-554a-49ec-91da-3ff24414806d"/>
+				<box topPadding="0" leftPadding="0" bottomPadding="0" rightPadding="0">
+					<pen lineWidth="0.1"/>
+					<topPen lineWidth="0.1"/>
+					<leftPen lineWidth="0.1"/>
+					<bottomPen lineWidth="0.1"/>
+					<rightPen lineWidth="0.1"/>
+				</box>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="FMRashmee" size="7" isPdfEmbedded="false"/>
+					<paragraph lineSpacing="Single" leftIndent="3"/>
+				</textElement>
+				<text><![CDATA[iemhqïlref.a ku(]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="35" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="61" splitType="Stretch">
+			<textField>
+				<reportElement mode="Opaque" x="389" y="0" width="67" height="9" backcolor="#F2F2F2" uuid="1102c070-6a51-4231-a589-31d9d94d3614"/>
+				<box topPadding="0" leftPadding="0" bottomPadding="0" rightPadding="0">
+					<pen lineWidth="0.1"/>
+					<topPen lineWidth="0.1"/>
+					<leftPen lineWidth="0.1"/>
+					<bottomPen lineWidth="0.1"/>
+					<rightPen lineWidth="0.1"/>
+				</box>
+				<textElement verticalAlignment="Top" markup="none">
+					<font fontName="SansSerif" size="7" isBold="true" isPdfEmbedded="false"/>
+					<paragraph lineSpacing="Single" leftIndent="3"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{cusID}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement mode="Opaque" x="389" y="12" width="67" height="9" backcolor="#F2F2F2" uuid="faf69b74-615c-48ea-9538-1bb0b1d357a7"/>
+				<box topPadding="0" leftPadding="0" bottomPadding="0" rightPadding="0">
+					<pen lineWidth="0.1"/>
+					<topPen lineWidth="0.1"/>
+					<leftPen lineWidth="0.1"/>
+					<bottomPen lineWidth="0.1"/>
+					<rightPen lineWidth="0.1"/>
+				</box>
+				<textElement verticalAlignment="Top" markup="none">
+					<font fontName="SansSerif" size="7" isBold="true" isPdfEmbedded="false"/>
+					<paragraph lineSpacing="Single" leftIndent="3"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{cusName}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement mode="Opaque" x="389" y="24" width="67" height="9" backcolor="#F2F2F2" uuid="4dfe74e5-d7cd-4b93-a57c-35a6a22b999d"/>
+				<box topPadding="0" leftPadding="0" bottomPadding="0" rightPadding="0">
+					<pen lineWidth="0.1"/>
+					<topPen lineWidth="0.1"/>
+					<leftPen lineWidth="0.1"/>
+					<bottomPen lineWidth="0.1"/>
+					<rightPen lineWidth="0.1"/>
+				</box>
+				<textElement verticalAlignment="Top" markup="none">
+					<font fontName="SansSerif" size="7" isBold="true" isPdfEmbedded="false"/>
+					<paragraph lineSpacing="Single" leftIndent="3"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{month}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement mode="Opaque" x="389" y="36" width="67" height="9" backcolor="#F2F2F2" uuid="47bfcc4d-5d5c-4db2-8ac8-32eeee37559e"/>
+				<box topPadding="0" leftPadding="0" bottomPadding="0" rightPadding="0">
+					<pen lineWidth="0.1"/>
+					<topPen lineWidth="0.1"/>
+					<leftPen lineWidth="0.1"/>
+					<bottomPen lineWidth="0.1"/>
+					<rightPen lineWidth="0.1"/>
+				</box>
+				<textElement verticalAlignment="Top" markup="none">
+					<font fontName="SansSerif" size="7" isBold="true" isPdfEmbedded="false"/>
+					<paragraph lineSpacing="Single" leftIndent="3"/>
+				</textElement>
+			</textField>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="125" splitType="Stretch"/>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com-jaspersoft-ireport-jasperserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-javaflow-20060411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com-jaspersoft-jrx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.48-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com-jaspersoft-ireport.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jasperreports-5.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/iText-2.1.7.js2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/barcode4j-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com-jaspersoft-ireport-components.Id_260481.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com-jaspersoft-ireport-components.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jasper-compiler-jdt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/iTextAsian.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-all-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
